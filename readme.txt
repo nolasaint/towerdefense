@@ -19,4 +19,10 @@
    Can be compiled in Java 6 and above, may work in Java 5 but will be slower.
 
    Driver: TowerDefenseGame.java 
-           **This is the file you run from command line after compiling the directory!**
+   # This is the file you run from command line after compiling the directory! #
+      _          _          _          _          _  
+    >(')____,  >(')____,  >(')____,  >(')____,  >(') ___, 
+      (` =~~/    (` =~~/    (` =~~/    (` =~~/    (` =~~/ 
+   ~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~ 
+
+   # Raise Your Rubber Duckies #
